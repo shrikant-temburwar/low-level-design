@@ -26,7 +26,7 @@ This project implements a parking lot system with multiple levels, each containi
 ### Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/parking_lot_system.git
+    git clone https://github.com/shrikant-temburwar/low-level-design.git
     cd parking_lot_system
     ```
 
