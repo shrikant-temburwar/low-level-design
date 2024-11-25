@@ -1,0 +1,2 @@
+class InvalidDenominationException(Exception):
+    pass
